@@ -2,3 +2,5 @@ print("Hello World;");
 print("Hello Vlad;");
 print("Hi;");
 print("Update;");
+print("Hello Bro!");
+print("Hello Dude!");
